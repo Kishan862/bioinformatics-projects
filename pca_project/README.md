@@ -1,3 +1,9 @@
-# Principal Component Analysis
+# PCA on Gene Expression Data
 
-Python implementation of PCA for dimensionality reduction and data analysis.
+This project performs PCA on breast cancer gene expression data.
+
+Features:
+- XBP1 vs GATA3 visualization
+- PCA projection
+- Explained variance plot
+- PC1/PC2 clustering
